@@ -1,4 +1,4 @@
 # python-programs
-Ayiravanam - Youtube Channel
+Ayiraavanam - Youtube Channel
 
 Starting Programming with Python
